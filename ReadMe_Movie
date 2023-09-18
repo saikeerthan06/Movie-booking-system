@@ -1,0 +1,77 @@
+#Movie-Booking System.
+
+Hello, I am Sai and this is a ReadMe on a new personal project which resolves around creating a 
+movie bookin website. I have worked on two different drafts of the movie booking website. 
+
+Latest ReadMe update: 18/09/23
+
+12/09/23:
+
+MovieWS.0 = The first ever draft is called Movie_logic, and it is a simple program which fullfills the following:
+
+    1. A simple program to see Movies now playing, upcoming movies. 
+    2. Creates an account where customers can see which movies they booked. 
+    3. Only one theatre with different format such as IMAX, Dolby and standard. 
+
+    Movie_logic was created and done on the 12/09/23.
+
+MovieWS.1 = The second draft is called new_movie_logic and is more powerful and poses significant improvements when compared to the first draft. 
+
+MovieWS.1 is created and first draft completed on the 13/09/23
+Some of the improvenments are: 
+
+    1. More user-friendly
+    2. More robust sign-up page
+    3. Easier access to upcoming movies and better readability. 
+
+Whats new in MovieWS.1(new_movie_logic):
+
+    1. More theatres. instead of one, there are 4. 
+    2. Accounting for different formats and better timings segregated by 4 different movies. 
+    3. Ability to view theatre layouts in every single theatre and format. 
+    4. Storing of vital information made more robust. 
+    5. Billings of prices are clearer to see. 
+    6. Better Type Handling
+
+Improvements needed: 
+
+    1. Theatre Layouts are repetetive throughout the every movie for the same format. (E.g, same layout for Oppenheimer and Mission Impossible in IMAX, same theatre different timing)
+    2. Addition of sending of SMS is needed
+    3. Better user-friendly interface. 
+
+MovieWS.1 has no syntax error although suffering from logical errors. 
+
+end goal for this project is to convert it to webDev. however, we plan to expand this to from console based to GUI using PyQT. 
+
+MovieWS1.1 = The Second Draft has fixed all of the before errors the first update had while adding more new features. 
+
+            Errors fixed: 
+            1. Same Theatre Layout is no longer shown for different movies at different timings. Each timing, location and movie has different layouts. 
+
+            New features for MovieWS.1: 
+
+            1. Merged both view movies/upcoming movies into one function. in the same function, customer can also opt to get more info based on each movie. 
+            2. SMS sending has been incorporated into the MovieWS1.1, which allows for two use cases, 1. confirm OTP, 2. sendinf confirmation message about bookings. 
+            3. New checkout page is in the works which as 0 syntax errors albeit having few logical errors. 
+
+            MovieWS1.1 is updated at 6:56PM, 15/09
+
+
+18/09: 
+
+    MovieWS1.2 = The third draft has enhanced some logical errors and has added new features. 
+
+    New features: 
+
+    1. Bill statement will be presented to the customer when he checks out. 
+    2. SMS sending for confirmation of payment and another SMS sent to confirm ticket after payment has been done. 
+
+    MovieWS1.2 is updated at 10:50AM, 18/09
+
+    
+
+
+
+latest README update: 15/09/23 7:00PM by Sai. 
+@Sai's MacbookAir. 
+
